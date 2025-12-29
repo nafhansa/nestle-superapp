@@ -9,12 +9,12 @@ const { width } = Dimensions.get('window');
 
 // Enhanced Mock Data with Images
 const LEADERS = [
-  { id: '1', name: 'Alya', points: 1540, rank: 1, avatar: 'https://i.pravatar.cc/150?u=1' },
-  { id: '2', name: 'Budi', points: 1250, rank: 2, avatar: 'https://i.pravatar.cc/150?u=2' },
-  { id: '3', name: 'Citra', points: 980, rank: 3, avatar: 'https://i.pravatar.cc/150?u=3' },
-  { id: '4', name: 'Dedi', points: 720, rank: 4, avatar: 'https://i.pravatar.cc/150?u=8' },
-  { id: '5', name: 'EcoBuddy', points: 650, rank: 5, avatar: 'https://i.pravatar.cc/150?u=4' },
-  { id: '6', name: 'Fani', points: 430, rank: 6, avatar: 'https://i.pravatar.cc/150?u=6' },
+  { id: '1', name: 'Alya', points: 7540, rank: 1, avatar: 'https://i.pravatar.cc/150?u=1' },
+  { id: '2', name: 'Budi', points: 5250, rank: 2, avatar: 'https://i.pravatar.cc/150?u=2' },
+  { id: '3', name: 'Citra', points: 5180, rank: 3, avatar: 'https://i.pravatar.cc/150?u=3' },
+  { id: '4', name: 'Dedi', points: 4720, rank: 4, avatar: 'https://i.pravatar.cc/150?u=8' },
+  { id: '5', name: 'EcoBuddy', points: 1650, rank: 5, avatar: 'https://i.pravatar.cc/150?u=4' },
+  { id: '6', name: 'Fani', points: 930, rank: 6, avatar: 'https://i.pravatar.cc/150?u=6' },
   { id: '7', name: 'Gina', points: 210, rank: 7, avatar: 'https://i.pravatar.cc/150?u=7' },
   { id: '8', name: 'Hadi', points: 150, rank: 8, avatar: 'https://i.pravatar.cc/150?u=8' },
 ];
